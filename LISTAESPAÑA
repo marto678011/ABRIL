@@ -1,0 +1,470 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| ANTENA 3 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3940
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| AXN HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3914
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| BARCA TV HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3928
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| BEIN LA LIGA HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3933
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| C TOROS HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3912
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| CALLE 13 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3907
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| CANAL 24 HORAS HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3913
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| CANAL COCINA FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3920
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| CANAL SUR
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3915
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| CLAN TVE HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3927
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| CUATRO HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3917
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| DEPORTES 2
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3931
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| DISCOVERY CHANNEL HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3939
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| DISNEY CHANNEL HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3922
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| DIVINITY HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3916
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| EUROSPORT 2
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3902
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| HOLLYWOOD HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3906
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| LA 1 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3942
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| LA SEXTA
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3919
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| LA 2 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3941
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR ACCION HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3934
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR COMEDIA HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3935
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| M DCINE HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3936
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR ESTRENOS HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3938
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| M SERIES XTRA
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3937
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR FORMULA 1 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3905
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| NAT GEO FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3923
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| NAT GEO WILD FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3924
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| REAL MADRID TV HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3908
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| SYFY HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3909
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| TCM FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3911
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| TELECINCO HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3918
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| TELEDEPORTE HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3926
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| TNT FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3925
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| #0 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/8545
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| 24 HORAS HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12516
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| 7RM FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12517
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| A3SERIES HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12518
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| ANDALUCIA TV HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12520
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| ARAGON TV HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12521
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| AXN WHITE HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12523
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| BABY TV
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12524
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| BE MAD FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12569
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| BEIN LALIGA TV BAR
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12628
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| BEIN LALIGA 2 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12622
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| BEIN LALIGA HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12626
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| BLAZE
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12637
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| BOING HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12514
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| CANAL ODISEA HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/8533
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| CANAL ORBE 21 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12525
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| CAZA  Y PESCA
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12636
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| CAZA Y PESCA FULLHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12635
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| CAZYPESCA HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/8534
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| COCINA
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12702
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| COMEDY CENTRAL HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/8535
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| COSMO HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/8536
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| COSMOPOLITAN  FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12698
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| DECASA
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12695
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| DISCOVERY CHANNEL FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12634
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| DISNEY JUNIOR
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12568
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| DISNEY XD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12567
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| DISNEY CHANNEL
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12566
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| DIVINITY
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12564
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| DMAX
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12562
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| ENERGY
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12561
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| EUROSPORT 2
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12558
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| EUROSPORT
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12557
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| EUROSPORT 1 FULL HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12556
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| EXTREMADURA TV
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12555
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| FDF
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12694
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| FOX
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12693
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| FOX FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/8537
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| FOX LIFE
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12692
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| FOX LIFE FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/8538
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| GOL TV
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12690
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| HISTORIA
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12633
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| HISTORIA FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12632
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| HIT TV
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12689
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| HOLLYWOOD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12631
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| IBERALIA
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12630
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| LA CUATRO
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12513
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| LIGA 123 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12615
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| LIGA CAMPEONES
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12609
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| LA 1 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12608
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| LIGA CAMPEONES HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/8539
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| LIGA DE CAMPEONES 1 Espa
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12606
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| LIGA DE CAMPEONES 1 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12605
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| LIGA DE CAMPEONES 2  Espa
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12604
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| LIGA DE CAMPEONES 3  Espa
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12603
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| TV GALICIA HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12599
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| LIGA DE CAMPEONES FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12598
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| DAZN FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34671
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| M LIGA DE CAMPEONES 1 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/8540
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| M. DEPORTES 1
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12593
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MEGA
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12583
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MEZZO LIVE
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12582
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MEZZO LIVE FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12581
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MEZZO LIVE HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/8544
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR 0#
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12676
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR ACCION HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12675
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR DEPORTES
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12674
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR DISNEY
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12673
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR F1
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12672
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR GOLF
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12670
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR TOROS TV
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12668
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR VAMOS
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12667
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR 0# FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12666
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR ACCION FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12664
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR CINEDOC&ROLL
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12663
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR COMEDIA
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12662
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR COMEDIA FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12661
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR DEPORTE HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12657
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR DRAMA
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12656
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR DRAMA FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12655
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR ESTRENOS
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12653
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR ESTRENOS FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12652
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR GOLF FHD/HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12649
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR SERIES
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12645
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR SERIES FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12644
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR SERIESMANIA
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12643
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR TOROS HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12641
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR VAMOS FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12640
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| VAMOS HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12639
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MOVISTAR XTRA FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12638
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MTV
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12580
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MULTIDEPORTE
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12579
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| MULTIFUTBOL 8
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12571
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| NAT GEO
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12553
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| NAT GEO WILD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12552
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| NEOX
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12551
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| NEOX HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3910
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| NICK JR
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12550
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| NICKELODEON
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12549
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| NICKELODEON FULLHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12548
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| NICKELODEON HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12547
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| NICKLEDEON HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/8542
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| NOVA
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/7044
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| ODISEA
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12546
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| PANDA
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12545
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| PARAMOUNT CHANNEL
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12544
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| REAL MADRID TV
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12542
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| SERIESMANIA HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/8541
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| SOMOS
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12540
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| SUNDANCE
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12539
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| SYFY
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12537
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| SYFY FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12536
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| TCM
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12688
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| TELECINCO FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12686
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| TELEMADRID FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12683
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| TEN
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12682
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| TNT
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12681
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| TV 13
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12680
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| VIAJAR
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12679
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| VIAJAR FULLHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12678
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES| CLASSICA
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12515
+
